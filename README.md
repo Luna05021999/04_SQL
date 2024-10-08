@@ -78,3 +78,8 @@ Issues: Si encuentras errores, tienes dudas o ideas sobre cómo hacer los ejerci
 
 ## 📋 Licencia
 Este repositorio está licenciado bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir este contenido para tus propios proyectos o para mejorar tus habilidades en SQL.
+
+## Contacto
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
