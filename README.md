@@ -18,7 +18,7 @@ Este proyecto se centra en el análisis de datos relacionados con **pedidos** ut
 - **Jupyter Notebook**: Entorno interactivo que permite ejecutar consultas SQL y documentar el análisis de forma clara.
 - **Pandas** (opcional): Para la manipulación y análisis de datos en Python, si se requiere importar resultados de SQL a un entorno de Python.
 
-Contacto
-Luna Outerelo Fernández.
-Email: lunaouterelo9@gmail.com
-Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
+## Contacto
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
